@@ -28,7 +28,7 @@ A [cross-platform music workflow tool](https://github.com/dstier-git/Music-Clipb
 - Privately building the universal platform native to production apps, with much more to be revealed with launch in 2026 ;-)
 
 **JamGuide**  
-A live jam-session discovery platform helping musicians find sessions in real time.  
+A live jam-session discovery platform helping musicians organize sessions, network, and manage bookings in real time.  
 Visit now at [jamguide.org](https://jamguide.org) ‼️‼️
 
 ---
