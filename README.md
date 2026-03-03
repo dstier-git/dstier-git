@@ -22,14 +22,17 @@ Building at the intersection of machine learning, full-stack systems, and music 
 ## 🚀 Currently Building
 
 **Music Clipboard (AI + DAWs)**  
-A cross-platform music workflow tool that uses file extraction and MCPs to enable AI-assisted editing across production software.  
+A cross-platform music workflow tool...
+
 - Support for non-music audio editing programs on the way.
-- Launching as full platform with much more to be revealed in 2026 ;-)
+- Launching as full platform...
 
 **JamGuide**  
 A live jam-session discovery platform helping musicians find sessions in real time.  
-Visit now at [jamguide.org]jamguide.org ‼️‼️
+Visit now at [jamguide.org](https://jamguide.org) ‼️‼️
+
 ---
+
 
 ## 🧠 Interests
 
@@ -42,11 +45,11 @@ Visit now at [jamguide.org]jamguide.org ‼️‼️
 
 ## 🛠 Tech Stack
 
-**Languages:** Python, Java, SQL, Javascript
-**ML:** PyTorch, scikit-learn  
-**Code frameworks:** FastAPI, Node.js, React, Next.js
-**Data:** PostgreSQL, Pandas, NumPy
-**Other:** Git, Docker, REST APIs
+- **Languages:** Python, Java, SQL, Javascript
+- **ML:** PyTorch, scikit-learn  
+- **Code frameworks:** FastAPI, Node.js, React, Next.js
+- **Data:** PostgreSQL, Pandas, NumPy
+- **Other:** Git, Docker, REST APIs
 
 ---
 
