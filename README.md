@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Dylan 👋
 
 <!--
 **dstier-git/dstier-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,44 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Computer Science and Data Science @ UC Berkeley  
+Building at the intersection of machine learning, full-stack systems, and music technology.
+
+---
+
+## 🚀 Currently Building
+
+**Music Clipboard (AI + DAWs)**  
+A cross-platform music workflow tool that uses file extraction and MCPs to enable AI-assisted editing across production software.  
+- Support for non-music audio editing programs on the way.
+- Launching as full platform with much more to be revealed in 2026 ;-)
+
+**JamGuide**  
+A live jam-session discovery platform helping musicians find sessions in real time.  
+Visit now at [jamguide.org]jamguide.org ‼️‼️
+---
+
+## 🧠 Interests
+
+- Machine Learning (modeling, inference, applied systems)
+- Backend architecture
+- AI tool integration & agent workflows
+- Music technology
+
+---
+
+## 🛠 Tech Stack
+
+**Languages:** Python, Java, SQL, Javascript
+**ML:** PyTorch, scikit-learn  
+**Code frameworks:** FastAPI, Node.js, React, Next.js
+**Data:** PostgreSQL, Pandas, NumPy
+**Other:** Git, Docker, REST APIs
+
+---
+
+## 🎺 Outside of Code
+
+Trumpet player (11+ years) 🎺
+Jazz, improvisation, arranging 🎶
+Marvel Rivals 🦸‍♂️ and Rocket League ⚽🚗
