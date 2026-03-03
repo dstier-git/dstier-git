@@ -22,10 +22,10 @@ Building at the intersection of machine learning, full-stack systems, and music 
 ## 🚀 Currently Building
 
 **Music Clipboard (AI + DAWs)**  
-A cross-platform music workflow tool...
+A [cross-platform music workflow tool](https://github.com/dstier-git/Music-Clipboard) using file extraction and MCPs to enable **AI-assisted editing** *across* standard production softwares.
 
 - Support for non-music audio editing programs on the way.
-- Launching as full platform...
+- Privately building the universal platform native to production apps, with much more to be revealed with launch in 2026 ;-)
 
 **JamGuide**  
 A live jam-session discovery platform helping musicians find sessions in real time.  
