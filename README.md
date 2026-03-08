@@ -48,7 +48,7 @@ Visit now at [jamguide.org](https://jamguide.org) ‼️‼️
 - **Languages:** Python, Java, SQL, Javascript
 - **ML:** PyTorch, scikit-learn  
 - **Code frameworks:** FastAPI, Node.js, React, Next.js
-- **Data:** PostgreSQL, Pandas, NumPy
+- **Data Science:** PostgreSQL, Pandas, NumPy, Matplotlib, Seaborn, Requests
 - **Other:** Git, Docker, REST APIs
 
 ---
