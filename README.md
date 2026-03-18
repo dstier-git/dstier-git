@@ -19,7 +19,7 @@ Building at the intersection of machine learning, full-stack systems, and music 
 
 ---
 
-## 🚀 Currently Building
+## 👨‍💻 Currently Building
 
 **Music Clipboard (AI + DAWs)**  
 A [cross-platform music workflow tool](https://github.com/dstier-git/Music-Clipboard) using file extraction and MCPs to enable **AI-assisted editing** *across* standard production softwares.
@@ -34,7 +34,7 @@ Visit now at [jamguide.org](https://jamguide.org) ‼️‼️
 ---
 
 
-## 🧠 Interests
+## 🩵 Interests
 
 - Machine Learning (modeling, inference, applied systems)
 - Backend architecture
