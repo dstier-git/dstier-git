@@ -25,7 +25,7 @@ Building at the intersection of machine learning, full-stack systems, and music 
 A [cross-platform music workflow tool](https://github.com/dstier-git/Music-Clipboard) using file extraction and MCPs to enable **AI-assisted editing** *across* standard production softwares.
 
 - Support for non-music audio editing programs on the way.
-- Privately building the universal platform native to production apps, with much more to be revealed with launch in 2026 ;)
+- Privately building the [universal platform native to production apps,][https://www.trytexture.app/] with much more to be revealed with launch in 2026 ;)
 
 **JamGuide**  
 A live jam-session discovery platform helping musicians organize sessions, network, and manage bookings in real time.  
