@@ -21,11 +21,13 @@ Building at the intersection of machine learning, full-stack systems, and music 
 
 ## 👨‍💻 Currently Building
 
-**Music Clipboard (AI + DAWs)**  
-A [cross-platform music workflow tool](https://github.com/dstier-git/Music-Clipboard) using file extraction and MCPs to enable **AI-assisted editing** *across* standard production softwares.
 
-- Support for non-music audio editing programs on the way.
-- Privately building the [universal platform native to production apps,](https://www.trytexture.app/) with much more to be revealed with launch in 2026 ;)
+**Texture**
+
+We're building Texture, an AI system for deep understanding of creative projects across formats, starting with music. Using AI to provide personalized service. Join the mailing list/early access crew [on our landing page](https://www.trytexture.app/) for launch announcements!
+
+**Music Clipboard (AI + DAWs)**  
+A [cross-platform music workflow tool](https://github.com/dstier-git/Music-Clipboard) using file extraction and MCPs to enable **AI-assisted editing** *across* standard music production softwares. Provides an easy and simple way to move music information from one DAW to another.
 
 **JamGuide**  
 A live jam-session discovery platform helping musicians organize sessions, network, and manage bookings in real time.  
