@@ -58,5 +58,5 @@ Visit now at [jamguide.org](https://jamguide.org) ‼️‼️
 ## 🎺 Outside of Code
 
 - Trumpet player (11+ years) 🎺
-- Jazz, improvisation, arranging 🎶
+- Music production, jazz, arranging 🎶
 - Marvel Rivals 🦸‍♂️ and Rocket League ⚽🚗
