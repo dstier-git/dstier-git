@@ -79,3 +79,47 @@ And for coding agents specifically...
 - **gstack**, Garry Tan's enormous Claude Code skill stack. Still not sure on the full CEO/manager-style workflow stuff but the office-hours skill is very powerful and I need to start using it more. The most important skill from here is the Codex skill, which provides Claude with workflows to call the Codex CLI and go back and forth to improve its plans or prep for PRs. [Repo](https://github.com/garrytan/gstack)
 
 ---
+
+## Some of my custom bash aliases
+
+```bash
+# git stuff
+alias gdn='git diff --name-only'
+alias ga='git add'
+ga-mul() {
+  if [ -t 0 ]; then
+    local files=("$@")
+    local line
+    while IFS= read -r line; do
+      [[ -z "$line" ]] && break
+      files+=("$line")
+    done
+    git add "${files[@]}"
+  else
+    xargs git add
+  fi
+}
+gc() {
+  git commit -m "$*"
+}
+
+# local dev environment
+alias ports='lsof -i -P | grep LISTEN'
+alias activate='source venv/bin/activate'
+
+# general
+alias ..='cd ..'
+alias ...='cd ../..'
+alias ~='cd ~'
+alias ls='ls -G'
+
+# ai workflows
+alias cdsp='claude --dangerously-skip-permissions'
+alias c='claude'
+
+# bun
+[ -s "/Users/.../.bun/_bun" ] && source "/Users/.../.bun/_bun"
+export BUN_INSTALL="$HOME/.bun"
+export PATH="$BUN_INSTALL/bin:$PATH"
+```
+
