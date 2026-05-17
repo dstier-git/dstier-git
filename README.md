@@ -19,7 +19,7 @@ Building at the intersection of machine learning, full-stack systems, and music 
 
 ---
 
-## 👨‍💻 Currently Building
+## Currently Building
 
 
 **Texture**
@@ -36,7 +36,7 @@ Visit now at [jamguide.org](https://jamguide.org)
 ---
 
 
-## 🩵 Interests
+## Interests
 
 - Machine Learning (modeling, inference, applied systems)
 - Backend architecture
@@ -45,7 +45,7 @@ Visit now at [jamguide.org](https://jamguide.org)
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **Languages:** Python, Java, SQL, Javascript/TS
 - **ML:** PyTorch, scikit-learn  
@@ -55,7 +55,7 @@ Visit now at [jamguide.org](https://jamguide.org)
 
 ---
 
-## 🎺 Outside of Code
+## Outside of Code
 
 - Trumpet player (11+ years) 
 - Music production, jazz, arranging 🎶
