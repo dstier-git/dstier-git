@@ -67,7 +67,6 @@ Visit now at [jamguide.org](https://jamguide.org)
 ## Some useful open-source tools I've been using (on macOS)
 
 - **iTerm**, a terminal alternative that easily supports tmux, cursor movement by mouse, easy-copy pasting, amazing customization. [Download](https://iterm2.com/index.html) and [lots of cool color schemes](https://iterm2colorschemes.com/) (I use Monokai Pro Spectrum)
-- 
 - **Glow**, a very simple renderer for markdown files inside the terminal. [Repo](https://github.com/charmbracelet/glow)
 
 
