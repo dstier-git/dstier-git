@@ -86,6 +86,7 @@ And for coding agents specifically...
 # git stuff
 alias gdn='git diff --name-only'
 alias ga='git add'
+# git add multiple files separated by line breaks (press enter after ga-mul, then paste all, and press enter again)
 ga-mul() {
   if [ -t 0 ]; then
     local files=("$@")
@@ -99,6 +100,7 @@ ga-mul() {
     xargs git add
   fi
 }
+# type a commit message after 'gc ' and it will wrap in quotes and send the commit
 gc() {
   git commit -m "$*"
 }
@@ -111,7 +113,7 @@ alias activate='source venv/bin/activate'
 alias ..='cd ..'
 alias ...='cd ../..'
 alias ~='cd ~'
-alias ls='ls -G'
+alias ls='ls -G' # adds color for directories
 
 # ai workflows
 alias cdsp='claude --dangerously-skip-permissions'
