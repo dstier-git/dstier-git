@@ -86,6 +86,7 @@ And for coding agents specifically...
 alias gdn='git diff --name-only'
 alias ga='git add'
 # git add multiple files separated by line breaks (press enter after ga-mul, then paste all, and press enter again)
+# useful for adding untracked files from git ls-files --others
 ga-mul() {
   if [ -t 0 ]; then
     local files=("$@")
