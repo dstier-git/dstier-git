@@ -114,17 +114,12 @@ alias ..='cd ..'
 alias ...='cd ../..'
 alias ~='cd ~'
 alias ls='ls -G' # adds color for directories
-
-# ai workflows
-
-alias cdsp='claude --dangerously-skip-permissions'
-alias c='claude'
-
-# bun
-[ -s "/Users/.../.bun/_bun" ] && source "/Users/.../.bun/_bun"
-export BUN_INSTALL="$HOME/.bun"
-export PATH="$BUN_INSTALL/bin:$PATH"
 ```
+
+---
+
+## All-powerful contribution-eating snake
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dstier-git/dstier-git/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dstier-git/dstier-git/output/github-snake.svg">
