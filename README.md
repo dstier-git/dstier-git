@@ -116,6 +116,7 @@ alias ~='cd ~'
 alias ls='ls -G' # adds color for directories
 
 # ai workflows
+
 alias cdsp='claude --dangerously-skip-permissions'
 alias c='claude'
 
@@ -124,4 +125,8 @@ alias c='claude'
 export BUN_INSTALL="$HOME/.bun"
 export PATH="$BUN_INSTALL/bin:$PATH"
 ```
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake.svg">
+</picture>
