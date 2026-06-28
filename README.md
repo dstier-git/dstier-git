@@ -118,7 +118,7 @@ alias ls='ls -G' # adds color for directories
 
 ---
 
-## All-powerful contribution-eating snake
+## Contribution-eating snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dstier-git/dstier-git/output/github-snake-dark.svg">
