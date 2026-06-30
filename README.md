@@ -63,8 +63,8 @@ Visit now at [jamguide.org](https://jamguide.org)
 
 
 ---
-
-## Some useful open-source tools I've been using (on macOS)
+<details>
+<summary><h2>Some useful open-source tools I've been using (on macOS)</h2></summary>
 
 - **iTerm**, a terminal alternative that easily supports tmux, cursor movement by mouse, easy-copy pasting, amazing customization. [Download](https://iterm2.com/index.html) and [lots of cool color schemes](https://iterm2colorschemes.com/) (I use Monokai Pro Spectrum)
 - **Glow**, a very simple renderer for markdown files inside the terminal. [Repo](https://github.com/charmbracelet/glow)
@@ -76,6 +76,7 @@ And for coding agents specifically...
 - **CC Statusline Upgrade**, an improvement for the /statusline command on Claude Code. I found this to be the most useful setup for displaying model, effort level, token usage, etc. Find it under the umbrella of plugins [here](https://github.com/setouchi-h/cc-marketplace).<details><summary>Click here to see preview pic</summary><<img width="1356" height="102" alt="image" src="https://github.com/user-attachments/assets/a28719ae-14a9-4979-8567-fa15f47fc2d5" /></details>
 - **oh-my-codex**, a multi-agent workflow manager for Codex. Pretty cool and works well sometimes but riddled with bugs and inefficiencies. Still fun to try out and is better than native Codex for distributing work and actively monitoring subagents. [Repo](https://github.com/Yeachan-Heo/oh-my-codex)
 - **gstack**, Garry Tan's enormous Claude Code skill stack. Still not sure on the full CEO/manager-style workflow stuff but the office-hours skill is very powerful and I need to start using it more. The most important skill from here is the Codex skill, which provides Claude with workflows to call the Codex CLI and go back and forth to improve its plans or prep for PRs. [Repo](https://github.com/garrytan/gstack)
+</details>
 
 ---
 <details>
