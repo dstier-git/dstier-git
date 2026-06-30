@@ -78,9 +78,9 @@ And for coding agents specifically...
 - **gstack**, Garry Tan's enormous Claude Code skill stack. Still not sure on the full CEO/manager-style workflow stuff but the office-hours skill is very powerful and I need to start using it more. The most important skill from here is the Codex skill, which provides Claude with workflows to call the Codex CLI and go back and forth to improve its plans or prep for PRs. [Repo](https://github.com/garrytan/gstack)
 
 ---
-
-## Some of my custom bash aliases
-
+<details>
+<summary><h2>Some of my custom bash aliases</h2></summary>
+  
 ```bash
 # git stuff
 alias gdn='git diff --name-only'
@@ -115,6 +115,7 @@ alias ...='cd ../..'
 alias ~='cd ~'
 alias ls='ls -G' # adds color for directories
 ```
+</details>
 
 ---
 
