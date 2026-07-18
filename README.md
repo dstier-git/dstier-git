@@ -28,7 +28,7 @@ We're building Texture, an active AI music production collaborator. You direct, 
 
 **Fraud Code**
 
-Finally, a [coding agent harness that _maximizes hallucination._](https://github.com/dstier-git/fraude-code) Satire, early stage.
+Finally, a [coding agent harness that _maximizes hallucination._](https://github.com/dstier-git/fraud-code) Satire, early stage.
 
 ## Some other projects
 
