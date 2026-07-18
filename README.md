@@ -19,12 +19,18 @@ Building at the intersection of machine learning, full-stack systems, and music 
 
 ---
 
-## Currently Building
+## Currently building
 
 
 **Texture**
 
 We're building Texture, an active AI music production collaborator. You direct, it executes. Challenging Suno's push to brand AI as a way to skip the little bits of music. We think AI can be the ramp that keeps people making music and helps beginners pick it up, launching songs while keeping the power to edit and shape in your hands. Join early access crew [on our landing page](https://www.textureai.app/) for launch announcements!
+
+**Fraud Code**
+
+Finally, a [coding agent harness that _maximizes hallucination._](https://github.com/dstier-git/fraude-code) Satire, early stage.
+
+## Some other projects
 
 **Music Clipboard (AI + DAWs)**  
 A [cross-platform music workflow tool](https://github.com/dstier-git/Music-Clipboard) using file extraction and MCPs to enable **AI-assisted editing** *across* standard music production softwares. Provides an easy and simple way to move music information from one DAW to another.
@@ -51,7 +57,6 @@ Visit now at [jamguide.org](https://jamguide.org)
 - **ML:** PyTorch, scikit-learn  
 - **Code frameworks:** FastAPI, Node.js, React, Next.js
 - **Data Science:** PostgreSQL, Pandas, NumPy, Matplotlib, Seaborn, Requests
-- **Other:** Git, Docker, REST APIs
 
 ---
 
@@ -59,7 +64,7 @@ Visit now at [jamguide.org](https://jamguide.org)
 
 - Trumpet player (11+ years) 
 - Music production, jazz, arranging 🎶
-- Marvel Rivals and Rocket League ⚽🚗
+- Rocket League ⚽🚗
 
 
 ---
