@@ -24,7 +24,7 @@ Building at the intersection of machine learning, full-stack systems, and music 
 
 **Texture**
 
-We're building Texture, an active AI collaborator that works directly in the DAW and skips awkward exports. A theory teacher, second pair of ears to consult with bothersome decisions, and a powerful MIDI editor. Join early access crew [on our landing page](https://www.textureai.app/) for launch announcements!
+We're building Texture, an active AI music production collaborator. You direct, it executes. Challenging Suno's push to brand AI as a way to skip the little bits of music. We think AI can be the ramp that keeps people making music and helps beginners pick it up, launching songs while keeping the power to edit and shape in your hands. Join early access crew [on our landing page](https://www.textureai.app/) for launch announcements!
 
 **Music Clipboard (AI + DAWs)**  
 A [cross-platform music workflow tool](https://github.com/dstier-git/Music-Clipboard) using file extraction and MCPs to enable **AI-assisted editing** *across* standard music production softwares. Provides an easy and simple way to move music information from one DAW to another.
