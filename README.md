@@ -73,6 +73,7 @@ Visit now at [jamguide.org](https://jamguide.org)
 
 - **iTerm**, a terminal alternative that easily supports tmux, cursor movement by mouse, easy-copy pasting, amazing customization. [Download](https://iterm2.com/index.html) and [lots of cool color schemes](https://iterm2colorschemes.com/) (I use Monokai Pro Spectrum)
 - **Glow**, a very simple renderer for markdown files inside the terminal. [Repo](https://github.com/charmbracelet/glow)
+- **Orca**, an agentic IDE that lets you group agent CLI sessions into tasks and projects for quick management. Includes smooth multi-pane terminal, a gorgeous UI, and very active maintainment.
 
 
 And for coding agents specifically...
