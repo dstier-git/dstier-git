@@ -24,7 +24,7 @@ Building at the intersection of machine learning, full-stack systems, and music 
 
 **Texture**
 
-We're building Texture, an active AI music production collaborator. You direct, it executes. Challenging Suno's push to brand AI as a way to skip the little bits of music. We think AI can be the ramp that keeps people making music and helps beginners pick it up, launching songs while keeping the power to edit and shape in your hands. Join early access crew [on our landing page](https://www.textureai.app/) for launch announcements!
+I'm building Texture, an active AI music production collaborator. You direct, it executes. Challenging Suno's push to brand AI as a way to skip the little bits of music. I think AI can be the ramp that keeps people making music and helps beginners pick it up, launching songs while keeping the power to edit and shape in your hands. Join early access crew [on the landing page](https://www.textureai.app/) for launch announcements!
 
 **Fraud Code**
 
