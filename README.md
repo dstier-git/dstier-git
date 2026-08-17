@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Computer Science and Data Science @ UC Berkeley  
-Building at the intersection of machine learning, full-stack systems, and music technology.
+Building at the intersection of machine learning, full-stack systems, music technology, and climate action.
 
 ---
 
