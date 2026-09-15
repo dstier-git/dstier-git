@@ -19,7 +19,7 @@ Building at the intersection of machine learning, full-stack systems, music tech
 
 ---
 
-## Currently building
+## Some things I've built
 
 
 **Texture**
@@ -29,8 +29,6 @@ I'm building Texture, an active AI music production collaborator. You direct, it
 **Fraud Code**
 
 Finally, a [coding agent harness that _maximizes hallucination._](https://github.com/dstier-git/fraud-code) Satire, early stage.
-
-## Some other projects
 
 **Music Clipboard (AI + DAWs)**  
 A [cross-platform music workflow tool](https://github.com/dstier-git/Music-Clipboard) using file extraction and MCPs to enable **AI-assisted editing** *across* standard music production softwares. Provides an easy and simple way to move music information from one DAW to another.
