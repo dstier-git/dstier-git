@@ -26,10 +26,6 @@ Building at the intersection of machine learning, full-stack systems, music tech
 
 I'm building Texture, an active AI music production collaborator. You direct, it executes. Challenging Suno's push to brand AI as a way to skip the little bits of music. I think AI can be the ramp that keeps people making music and helps beginners pick it up, launching songs while keeping the power to edit and shape in your hands. Join early access crew [on the landing page](https://www.textureai.app/) for launch announcements!
 
-**Fraud Code**
-
-Finally, a [coding agent harness that _maximizes hallucination._](https://github.com/dstier-git/fraud-code) Satire, early stage.
-
 **Music Clipboard (AI + DAWs)**  
 A [cross-platform music workflow tool](https://github.com/dstier-git/Music-Clipboard) using file extraction and MCPs to enable **AI-assisted editing** *across* standard music production softwares. Provides an easy and simple way to move music information from one DAW to another.
 
